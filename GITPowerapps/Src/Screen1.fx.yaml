@@ -12,3 +12,9 @@ Screen1 As screen:
         Y: =316
         ZIndex: =2
 
+    Button2 As button:
+        Text: ="button added"
+        X: =261
+        Y: =213
+        ZIndex: =2
+
